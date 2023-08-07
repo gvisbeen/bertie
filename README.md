@@ -1,2 +1,2 @@
 # bertie
-Erlang WebSocketServer with Cowboy and Ranch
+-Erlang WebSocketServer with Cowboy and Ranch
